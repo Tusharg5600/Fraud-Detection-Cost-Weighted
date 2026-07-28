@@ -1,4 +1,4 @@
-Transaction Fraud Detection (Cost-Weighted)
+# Transaction Fraud Detection (Cost-Weighted)
 
 An interpretable, cost-aware fraud detection system using the IEEE-CIS Fraud Detection dataset (Kaggle). Outputs a ranked investigation queue with capacity-aware precision/recall and a cost-weighted threshold optimizer.
 
