@@ -18,7 +18,7 @@ train_working_rf.parquet
 test_lr_split.parquet
 test_rf_split.parquet
 lr_feature_cols.txt
-claude.md
+
 
 # Python
 __pycache__/
@@ -31,4 +31,4 @@ __pycache__/
 train_transaction.csv
 train_identity.csv
 test_transaction.csv
-test_identity.csvCLAUDE.md
+test_identity.csv
