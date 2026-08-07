@@ -71,3 +71,8 @@ Raw Kaggle data and intermediate pipeline files are excluded via `.gitignore` (s
 cd Data/ieee-cis
 streamlit run dashboard.py
 ```
+
+## Author
+
+**Tushar Gupta**
+[LinkedIn](https://linkedin.com/in/tusharanalyst) · [GitHub](https://github.com/Tusharg5600) · tusharg5600@gmail.com
